@@ -33,7 +33,7 @@ The data used to train and test the neural network for OCR is the widely known E
 8. Go to section “Test 3” and paste the copied path in folderpath variable.
 9. Run the code to view the results
 
-** Note: Please make sure you have properly followed the above lines and paste the right path for the folders in order for the code to run.**
+**Note: Please make sure you have properly followed the above lines and paste the right path for the folders in order for the code to run.**
 
 ### Acknowledgments
 1. EMNIST Dataset Repository
