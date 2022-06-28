@@ -1,0 +1,9 @@
+F1_score: 0.9188186584151179
+Recall_score: 0.9183333333333333
+Precision_score: 0.9203271082342174
+F1_score of Handwritten dataset: 0.8282051282051283
+Recall_score of Handwritten dataset: 0.8461538461538461
+Precision_score of Handwritten dataset: 0.8717948717948717
+F1_score of computer generated Handwritten dataset: 0.8527472527472528
+Recall_score of computer generated Handwritten dataset: 0.8653846153846154
+Precision_score of computer generated Handwritten dataset: 0.8743589743589744
